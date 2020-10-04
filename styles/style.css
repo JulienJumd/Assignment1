@@ -1,0 +1,75 @@
+
+.header {
+	background:#750B09;
+
+	display:flex;
+	padding:15px;
+	
+}
+.h1{
+	display:flex;
+	font-family: 'Fredoka One', cursive;
+	width:100%;
+	justify-content:space-between;
+	margin:auto;
+	font-size: 25px;
+}
+
+body{
+	background-color: #C9A463;
+}
+
+.wrapper{
+	display:flex;
+	align-items:center;
+	flex-wrap:wrap;
+	justify-content:center;
+	font-family: 'Fredoka One', cursive;
+	
+}
+.content{
+	display:flex;
+	width:960px;
+	padding:10px;
+	margin:10px;
+	justify-content:space-around;
+	background:#C9A463;
+	
+}
+.imageCaption{
+	display:flex;
+	flex:50%;
+	width:30%;
+	padding:10px;
+	flex-direction:column;
+	
+	
+}
+.image{
+	display:flex;
+	justify-content:center;
+	
+}
+
+}
+.caption{
+	display:flex;
+	text-align:center;
+	align-self:flex-start;
+	font-family: 'Fredoka One', cursive;
+	
+	
+}
+
+
+.work {
+	font-family: 'Fredoka One', cursive;
+	display:flex;
+	flex:50%;
+	width:50%;
+	background-color: #FFFFFF;
+	border: 2px solid black;
+	text-align:vertical-align;
+
+	
+}
