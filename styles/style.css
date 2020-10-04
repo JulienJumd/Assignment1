@@ -39,7 +39,7 @@ body{
 .imageCaption{
 	display:flex;
 	flex:50%;
-	width:30%;
+	width:33%;
 	padding:10px;
 	flex-direction:column;
 	
@@ -66,7 +66,7 @@ body{
 	font-family: 'Fredoka One', cursive;
 	display:flex;
 	flex:50%;
-	width:50%;
+	width:66%;
 	background-color: #FFFFFF;
 	border: 2px solid black;
 	text-align:vertical-align;
